@@ -1,5 +1,8 @@
 # 507-perfectNumber
-Mersenne primes 2^p-1    For 2p−1 to be prime, it is necessary that p itself be prime.
+不是每个素数都是梅森数 
+不是每个素数P都可以构成梅森素数
+梅森素数的P一定是素数
+Mersenne primes 2^p-1   For 2p−1 to be prime, it is necessary that p itself be prime.
 However, not all numbers of the form 2p−1 with a prime pp are prime; for example, 211−1=2047=23×89 is not a prime number.
 
 Euclid proved that 2^(p-1)(2^p-1) is an even perfect number where (2^p-1) is a prime;
